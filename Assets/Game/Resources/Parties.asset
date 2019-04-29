@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec75328083c6cde458f13834bacc2779, type: 3}
+  m_Name: Parties
+  m_EditorClassIdentifier: 
+  ID: Parties
+  Title: Parties
+  MessageDisplayText: parties
+  Description: "When it's time to party we will party hard\r."
+  BodySprite: {fileID: 21300054, guid: 37f20ef629a145b44b2a89aef1f52719, type: 3}
+  CostOnBuy: {fileID: 0}
+  KilledOptionOnBuy: {fileID: 11400000, guid: 360e412bf0cef6d41af2be7822a3cdf7, type: 2}
+  Bonus: 2
+  Malus: 0

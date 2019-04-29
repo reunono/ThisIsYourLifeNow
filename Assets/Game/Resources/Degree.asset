@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec75328083c6cde458f13834bacc2779, type: 3}
+  m_Name: Degree
+  m_EditorClassIdentifier: 
+  ID: Degree
+  Title: Degree
+  MessageDisplayText: a degree
+  Description: It's either that or parties buddy.
+  BodySprite: {fileID: 21300046, guid: 37f20ef629a145b44b2a89aef1f52719, type: 3}
+  CostOnBuy: {fileID: 11400000, guid: 998c64ae3dcc5084a90c1d1e4e30115c, type: 2}
+  KilledOptionOnBuy: {fileID: 11400000, guid: 9206857aba5d9cf41a90f45207624b95, type: 2}
+  Bonus: 0
+  Malus: 3

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec75328083c6cde458f13834bacc2779, type: 3}
+  m_Name: House
+  m_EditorClassIdentifier: 
+  ID: House
+  Title: House
+  MessageDisplayText: a house
+  Description: Home is where your heart is. Or in the suburbs.
+  BodySprite: {fileID: 21300000, guid: 37f20ef629a145b44b2a89aef1f52719, type: 3}
+  CostOnBuy: {fileID: 11400000, guid: 497ea7023f1e90e47adb6b96e4f507b3, type: 2}
+  KilledOptionOnBuy: {fileID: 11400000, guid: d0d893d9eb2297a439b954b1472ed8b6, type: 2}
+  Bonus: 1
+  Malus: 2

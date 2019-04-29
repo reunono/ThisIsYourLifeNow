@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec75328083c6cde458f13834bacc2779, type: 3}
+  m_Name: Partner
+  m_EditorClassIdentifier: 
+  ID: Partner
+  Title: Partner
+  MessageDisplayText: your partner
+  Description: "Together as close as can be.\r"
+  BodySprite: {fileID: 21300022, guid: 37f20ef629a145b44b2a89aef1f52719, type: 3}
+  CostOnBuy: {fileID: 11400000, guid: e40af84b20858334689f2bd4151c5fde, type: 2}
+  KilledOptionOnBuy: {fileID: 0}
+  Bonus: 4
+  Malus: 2
